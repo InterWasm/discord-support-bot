@@ -48,6 +48,7 @@ When the expert and the user are happy with the question/answer, the ticket can 
 reacting the original message or the ticket in the expert channels with an exclamation mark emoji (❗)
 
 ![Closed question](assets/question-closed.png)
+
 ![Closed ticket](assets/ticket-closed.png)
 
 When a ticket is closed, it's automatically removed from the **Pinned Messages**.
