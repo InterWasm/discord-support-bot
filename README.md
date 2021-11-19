@@ -45,7 +45,7 @@ Experts can view their assigned tickets in the private channel named after them 
 When the title of the ticket is clicked, it navigates to the original message for the expert to answer.
 
 When the expert and the user are happy with the question/answer, the ticket can be closed either
-reacting the original message or the ticket in the expert channels.
+reacting the original message or the ticket in the expert channels with an exclamation mark emoji (❗)
 
 ![Closed question](assets/question-closed.png)
 ![Closed ticket](assets/ticket-closed.png)
