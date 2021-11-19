@@ -69,3 +69,11 @@ Again when clicked on the title, it navigates to the original message.
 After talking with expert about the question and the ticket is closed (reacting to the message with ❗), they will get a DM from the bot again about the closed status.
 
 ![Closed ticket in DM](assets/ticket-closed-dm.png)
+## Supported Channels
+
+| **Channel Name**    | **Channel ID**         |
+|-----------------|--------------------|
+| smart-contracts | 737643344712171600 |
+| wasmd           | 737640672680607764 |
+| cosmjs          | 737640557400293416 |
+| dapps           | 802118707639484416 |
