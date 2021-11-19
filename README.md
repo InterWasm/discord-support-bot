@@ -53,3 +53,12 @@ reacting the original message or the ticket in the expert channels with an excla
 ![Closed ticket](assets/ticket-closed.png)
 
 When a ticket is closed, it's automatically removed from the **Pinned Messages**.
+
+## Supported Channels
+
+| **Channel Name**    | **Channel ID**         |
+|-----------------|--------------------|
+| smart-contracts | 737643344712171600 |
+| wasmd           | 737640672680607764 |
+| cosmjs          | 737640557400293416 |
+| dapps           | 802118707639484416 |
