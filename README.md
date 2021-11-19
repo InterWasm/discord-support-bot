@@ -21,7 +21,7 @@ In order for an expert to be added to the list, first they need to be added to t
 After adding them, they need to be in the **admin-bot** channel to be added/removed to the expert
 list.
 
-# Workflow
+## Workflow
 
 In the monitored channels (**test-bot** for our case), people can react to a message with a question mark emoji (❓) to mark it as a question.
 
